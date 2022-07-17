@@ -1,4 +1,4 @@
 const Flexboxone = () => {
-  return <div className="bg-blue-100">My Css and Flexbox.</div>;
+  return <div className="container">My Css and Flexbox.</div>;
 };
 export default Flexboxone;
