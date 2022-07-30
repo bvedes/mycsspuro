@@ -1,12 +1,8 @@
 import { useState } from "react";
-import { initialBunch } from "../utils/index";
+import { initialData } from "../utils/index";
 
-export const useEmployedc = () => {
-  const [employeds, setEmployeds] = useState(initialBunch);
-  console.log("mmmmmmmm: ", employeds);
+export const useData = () => {
+  const [data, setData] = useState(initialData);
 
-  return {
-    employeds,
-    setEmployeds,
-  };
+  return [data, setData];
 };
