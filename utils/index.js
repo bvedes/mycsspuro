@@ -18,7 +18,8 @@ export const initialData = {
       postalCode: "8150-026",
       isAdmin: false,
       isContractor: true,
-      avatar: "a",
+      avatar:
+        "https://i.pinimg.com/736x/1c/a7/2d/1ca72d14778519786ab6066b369af4bd.jpg",
     },
     {
       id: 2,
@@ -29,7 +30,8 @@ export const initialData = {
       postalCode: "8150-027",
       isAdmin: false,
       isContractor: true,
-      avatar: "b",
+      avatar:
+        "https://blog.petiko.com.br/wp-content/uploads/2015/04/gatinho-recem-nascido-cover.jpeg",
     },
     {
       id: 3,
@@ -40,7 +42,8 @@ export const initialData = {
       postalCode: "8150-028",
       isAdmin: false,
       isContractor: true,
-      avatar: "c",
+      avatar:
+        "https://i.pinimg.com/236x/46/3d/23/463d236dd4f22ec949ec79c0f12dd51c.jpg",
     },
     {
       id: 4,
@@ -51,7 +54,8 @@ export const initialData = {
       postalCode: "8150-029",
       isAdmin: false,
       isContractor: true,
-      avatar: "d",
+      avatar:
+        "https://cdn.los-animales.org/fotos/43919534_1228137-munsckin-filhotes-amaveis.jpg",
     },
     {
       id: 5,
@@ -62,7 +66,8 @@ export const initialData = {
       postalCode: "8150-030",
       isAdmin: false,
       isContractor: true,
-      avatar: "e",
+      avatar:
+        "https://casaeconstrucao.org/wp-content/uploads/2021/08/17-filhote-de-gato-Munchkin.jpg",
     },
     {
       id: 6,
@@ -73,7 +78,8 @@ export const initialData = {
       postalCode: "8150-031",
       isAdmin: false,
       isContractor: true,
-      avatar: "f",
+      avatar:
+        "https://i.pinimg.com/236x/cb/44/f9/cb44f97292e5b62c2eba9d6e1dbd5c8f.jpg",
     },
   ],
 };
