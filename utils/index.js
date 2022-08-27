@@ -1,11 +1,11 @@
 export const initialData = {
   personalData: [
-    "Avatar",
     "Name",
     "Specialty",
     "email",
     "Address",
     "PostalCode",
+    "Actions",
   ],
 
   profiles: [
@@ -14,12 +14,12 @@ export const initialData = {
       name: "Emilia do Carmo",
       specialty: "Contabilista",
       email: "emilia.docarmo@gmail.com",
-      address: "casa monte 900A",
-      postalCode: "8150-026",
+      address: "casa monte 900H",
+      postalCode: "8150-049",
       isAdmin: false,
       isContractor: true,
       avatar:
-        "https://i.pinimg.com/736x/1c/a7/2d/1ca72d14778519786ab6066b369af4bd.jpg",
+        "https://blog.petiko.com.br/wp-content/uploads/2015/04/gatinho-recem-nascido-cover.jpeg",
     },
     {
       id: 2,
@@ -31,7 +31,7 @@ export const initialData = {
       isAdmin: false,
       isContractor: true,
       avatar:
-        "https://blog.petiko.com.br/wp-content/uploads/2015/04/gatinho-recem-nascido-cover.jpeg",
+        "https://i.pinimg.com/736x/1c/a7/2d/1ca72d14778519786ab6066b369af4bd.jpg",
     },
     {
       id: 3,
